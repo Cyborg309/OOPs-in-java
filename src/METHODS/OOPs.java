@@ -1,5 +1,5 @@
 package METHODS;
-public class ClassWork {
+public class OOPs {
 
 //
 //    public static void main(String []args) {
